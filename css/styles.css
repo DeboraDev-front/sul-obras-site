@@ -13,10 +13,12 @@ body {
 }
 
 .navbar-brand img {
-  width: 140x;
-  height: 120px;
-  object-fit: cover;
+  width: 140px;
+  height: auto;
+  object-fit: contain;
+  padding: 4px;
 }
+
 
 .nav-link {
   color: #f5f5f5 !important;
